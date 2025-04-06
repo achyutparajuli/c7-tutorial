@@ -1,1 +1,1 @@
-console.log("Hello!!")
+console.log("He's gay!!")
